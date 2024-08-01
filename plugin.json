@@ -1,10 +1,10 @@
 {
-  "name": "Example Plugin",
-  "author": "John Doe",
+  "name": "Epic Games Achivements",
+  "author": "Taftle",
   "flags": ["debug", "_root"],
   "publish": {
     "tags": ["template", "root"],
     "description": "Decky example plugin.",
-    "image": "https://opengraph.githubassets.com/1/SteamDeckHomebrew/PluginLoader"
+    "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogodownload.org%2Fwp-content%2Fuploads%2F2020%2F10%2Fepic-games-logo-1.png&f=1&nofb=1&ipt=242a03cf1d0dadb2e05fd5ead2551d03172a97bb1399d91c726f68b1dde4a621&ipo=images"
   }
 }
